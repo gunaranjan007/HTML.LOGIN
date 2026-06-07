@@ -1,1 +1,4 @@
-some backends changes in java
+int a=0;
+int b=0;
+int c=a+b;
+System.out.println(c);
